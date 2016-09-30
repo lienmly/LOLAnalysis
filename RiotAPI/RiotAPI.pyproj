@@ -28,6 +28,26 @@
     <Compile Include="RiotAPI.py" />
     <Compile Include="RiotContants.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="outputData\brokenMatchHistoryIndex10.json" />
+    <Content Include="outputData\firstSummonerMatchHistory.json" />
+    <Content Include="outputData\matchGold.csv" />
+    <Content Include="outputData\seedSummonerIds.json" />
+    <Content Include="seedData\matches1.json" />
+    <Content Include="seedData\matches10.json" />
+    <Content Include="seedData\matches2.json" />
+    <Content Include="seedData\matches3.json" />
+    <Content Include="seedData\matches4.json" />
+    <Content Include="seedData\matches5.json" />
+    <Content Include="seedData\matches6.json" />
+    <Content Include="seedData\matches7.json" />
+    <Content Include="seedData\matches8.json" />
+    <Content Include="seedData\matches9.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="outputData\" />
+    <Folder Include="seedData\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
