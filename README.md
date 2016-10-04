@@ -2,7 +2,7 @@
 
 MOBA is short for Multiplayer Online Battle Arena. 
 
-In this project, I used Python to extract JSON data from RiotAPI. 
+In this project, I used Python to extract JSON data from RiotAPI. Data consists of matches' details from League of Lengends. 
 
 APIGrabber.py was written by @farzatv. The rest is written by me. 
 
