@@ -46,7 +46,6 @@ class RiotAPI(object):
             matchid=matchID,
             timeline_bool=timeline_included
             )
-        #print (api_url)
         return self._request(api_url)
     
     def get_match_history(self, summonerID):
@@ -54,5 +53,4 @@ class RiotAPI(object):
             version=Consts.API_VERSIONS['match'],
             summonerId=summonerID
             )
-        #print (api_url)
         return self._request(api_url)
