@@ -39,7 +39,7 @@
     <Content Include="R\features_20.csv" />
     <Content Include="R\features_30.csv" />
     <Content Include="R\report.xlsx" />
-    <Content Include="R\week9.R" />
+    <Content Include="R\Source.R" />
     <Content Include="seedData\matches1.json" />
     <Content Include="seedData\matches10.json" />
     <Content Include="seedData\matches2.json" />
