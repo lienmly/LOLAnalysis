@@ -33,6 +33,13 @@
     <Content Include="outputData\firstSummonerMatchHistory.json" />
     <Content Include="outputData\matchGold.csv" />
     <Content Include="outputData\seedSummonerIds.json" />
+    <Content Include="R\.RData" />
+    <Content Include="R\.Rhistory" />
+    <Content Include="R\features_10.csv" />
+    <Content Include="R\features_20.csv" />
+    <Content Include="R\features_30.csv" />
+    <Content Include="R\report.xlsx" />
+    <Content Include="R\week9.R" />
     <Content Include="seedData\matches1.json" />
     <Content Include="seedData\matches10.json" />
     <Content Include="seedData\matches2.json" />
@@ -46,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="outputData\" />
+    <Folder Include="R\" />
     <Folder Include="seedData\" />
   </ItemGroup>
   <PropertyGroup>
